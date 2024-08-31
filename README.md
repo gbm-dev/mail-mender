@@ -1,2 +1,7 @@
-# mail-mender
-A collection of automation scripts for maintaining email accounts across Gmail and Office 365.
+Scripts to automate Gmail and Office 365 email tasks using Google Apps Script and Microsoft Graph API.
+
+What it does:
+- Sorts emails automatically
+- Applies custom labels and filters
+- Performs batch actions (archive, delete, move)
+- Works across Gmail
